@@ -6,7 +6,7 @@
 ## 프로젝트 목적
 -	Cuckoo sandbox를 통해서 악성파일과 정상 파일 분석
 -	기계학습을 기반으로 악성파일과 정상파일을 분류하는 모델 생성
--	
+
 ## 순서도
 ![image](https://user-images.githubusercontent.com/69044270/122741988-7bf2de00-d2c0-11eb-8cba-265077f4f07c.png)
 

@@ -1,4 +1,4 @@
-# Malware-Analysis
+# Artificial-intelligence-based-malicious-code-analysis
 
 ## 프로젝트 명
 악성 파일 분석 및 기계 학습을 통한 악성코드 분류
@@ -9,6 +9,10 @@
 
 ## 순서도
 ![image](https://user-images.githubusercontent.com/69044270/122741988-7bf2de00-d2c0-11eb-8cba-265077f4f07c.png)
+
+
+## 기계학습을 통한 악성코드 분류
+![기계학습을 통한 악성코드 분류](https://user-images.githubusercontent.com/69952073/124561862-5269b300-de79-11eb-8855-b7a481070baa.PNG)
 
 ## 환경
 - 우분투 16.04 
